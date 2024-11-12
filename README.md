@@ -10,7 +10,9 @@ I'm an aspiring Data Analyst currently advancing my skills at **Turing College**
 - **Soft Skills**: Leadership, mentoring, team collaboration
 
 ## 🧑‍💻 Experience
-- **Senior Fund Accountant** at Citco: Gained comprehensive financial expertise.
+- **Senior Fund Accountant** at Citco: Managed full-cycle fund accounting, including financial statement preparation, while leveraging Investran and NetSuite for accurate reporting. Collaborated with auditors and client services to resolve discrepancies and deliver tailored financial insights.
+- **Accounting Specialist** at Intrum: Utilized Navision, Coupa, and Workday to enhance financial operations.Collaborated with international teams to manage complex processes, resolve critical issues, and ensure operational continuity. Proactively addressed high-impact challenges, preventing process disruptions and driving efficiency.
+- **Financial Analyst** at UAB Braitin: Analyzed KPI's and key financial metrics, providing insights into company performance. Conducted valuations of various companies and presented findings to senior leadership.Performed sector-specific financial analysis, offering actionable recommendations to higher management.
 - **Mentor at Sophomore Camp**: Demonstrated leadership and team management.
 - **Student Association Marketing**: Developed promotional strategies and collaborative skills.
 
