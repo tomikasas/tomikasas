@@ -29,9 +29,8 @@ I'm an aspiring Data Analyst currently advancing my skills at **Turing College**
 Currently seeking a junior or entry-level **Data Analyst** role to leverage my finance background, newly acquired technical skills, and real-world problem-solving abilities.
 
 ## 📫 Get in Touch
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Email**: tomas.grigaitis@example.com
-- **Portfolio**: [Link to your personal website or other projects]
+- **LinkedIn**: [Tomas Grigaitis](www.linkedin.com/in/tomas-grigaitis-95987a217)
+- **Email**: tomas.grigaitis@yahoo.com
 
 ## 🏉 Fun Fact
 When I'm not crunching numbers or writing code, you'll find me on the rugby field, playing the sport I've loved for over a decade!
