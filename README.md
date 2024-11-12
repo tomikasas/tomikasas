@@ -26,7 +26,7 @@ Finance professional with a bachelor's degree and two years of experience, eager
 - **Ongoing Python Learning**: Continuously improving programming skills, emphasizing readable and efficient code (PEP8 standards).
 
 ## 🎯 Career Goals
-Currently seeking a junior or entry-level **Data Analyst** role to leverage my finance background, newly acquired technical skills, and real-world problem-solving abilities.
+I am actively pursuing a junior to mid-level Data Analyst position where I can combine my background in finance and extensive data analytics training. My goal is to leverage my analytical skills, technical expertise in Python and SQL, and strong problem-solving abilities to deliver impactful insights and support data-driven decision-making in a dynamic team environment. I'm eager to contribute to meaningful projects and continue growing in a role that challenges me to advance my technical and professional skills.
 
 ## 📫 Get in Touch
 - **LinkedIn**: [Tomas Grigaitis](www.linkedin.com/in/tomas-grigaitis-95987a217)
