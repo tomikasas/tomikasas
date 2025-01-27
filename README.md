@@ -20,6 +20,7 @@ Finance professional with a bachelor's degree and two years of experience, eager
 - **Loan Conversion Analysis**: Excluding specific regions like Nairobi, analyzing patterns in loan agreements using SQL.
 - **Chess Program Development**: Coding movement logic for chess pieces, focusing on realistic captures (e.g., rook capturing only the first piece in its path).
 - **Data Analysis Coursework**: Projects involving Power BI dashboards and Python-based data analysis.
+- **Cardiovascular Disease Prediction**: prediction model using logistic regression (python)
 
 ## 📚 Education
 - **Data Analytics Student** at Turing College: Hands-on learning in data analytics tools and best practices.
