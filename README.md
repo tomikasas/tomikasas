@@ -5,7 +5,7 @@ Finance professional with a bachelor's degree and two years of experience, eager
 
 ### 🚀 Skills
 - **Programming Languages**: Python (PEP8-compliant), SQL
-- **Tools**: Power BI, Excel (SUM, VLOOKUP, XLOOKUP)
+- **Tools**: Power BI, Excel
 - **Data Analysis**: Statistical modeling, data visualization, ETL processes
 - **Soft Skills**: Leadership, mentoring, team collaboration
 
