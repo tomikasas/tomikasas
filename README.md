@@ -19,15 +19,15 @@ Finance professional with a bachelor's degree and two years of experience, eager
 ## 📈 Current Projects
 - **Loan Conversion Analysis**: Excluding specific regions like Nairobi, analyzing patterns in loan agreements using SQL.
 - **Chess Program Development**: Coding movement logic for chess pieces, focusing on realistic captures (e.g., rook capturing only the first piece in its path).
-- **Data Analysis Coursework**: Projects involving Power BI dashboards and Python-based data analysis.
 - **Cardiovascular Disease Prediction**: prediction model using logistic regression (python)
 
 ## 📚 Education
-- **Data Analytics Student** at Turing College: Hands-on learning in data analytics tools and best practices.
-- **Ongoing Python Learning**: Continuously improving programming skills, emphasizing readable and efficient code (PEP8 standards).
+
+- **Turing College Graduate** – Practical experience in SQL, Power BI, Python, and advanced data analytics methodologies.
+- **ISM University of Management and Economics graduate**: Bachelor’s Degree in Finance.
 
 ## 🎯 Career Goals
-I am actively pursuing a junior to mid-level Data Analyst position where I can combine my background in finance and extensive data analytics training. My goal is to leverage my analytical skills, technical expertise in Python and SQL, and strong problem-solving abilities to deliver impactful insights and support data-driven decision-making in a dynamic team environment. I'm eager to contribute to meaningful projects and continue growing in a role that challenges me to advance my technical and professional skills.
+I am actively pursuing a junior to mid-level Data Analyst position where I can combine my background in finance and extensive data analytics training. I aim to leverage my analytical skills, technical expertise in Python and SQL, and strong problem-solving abilities to deliver impactful insights and support data-driven decision-making in a dynamic team environment. I'm eager to contribute to meaningful projects and continue growing in a role that challenges me to advance my technical and professional skills.
 
 ## 📫 Get in Touch
 - **LinkedIn**: [Tomas Grigaitis](www.linkedin.com/in/tomas-grigaitis-95987a217)
