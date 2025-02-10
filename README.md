@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tomas Grigaitis
 
 ## 🌟 About Me
-Finance professional with a bachelor's degree and two years of experience, eager to advance in the field. I expanded my expertise by studying data analytics at Turing College, gaining hands-on experience with SQL, Power BI, and other tools for data analysis and decisionmaking. Currently striving to transition into a data analyst role, I am focused on applying my skills to drive actionable insights. Beyond work, I've dedicated 15 years to rugby, demonstrating commitment, teamwork, and leadership.
+Finance professional with a bachelor's degree and two years of experience, eager to advance in the field. I expanded my expertise by studying data analytics at Turing College, gaining hands-on experience with SQL, Power BI, python and other tools for data analysis and decision-making. Currently striving to transition into a data analyst role, I am focused on applying my skills to drive actionable insights. Beyond work, I've dedicated 15 years to rugby, demonstrating commitment, teamwork, and leadership.
 
 ### 🚀 Skills
 - **Programming Languages**: Python (PEP8-compliant), SQL
